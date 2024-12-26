@@ -1,0 +1,11 @@
+tqdm: tracks video frame processing
+ffmpeg: fast forward moving pictures experts group, extract and merges audio
+OpenCV: open source computer vision library, assist with frame manipulation, video processing, and embedding/extracting data.
+NumPy is a powerful Python library for numerical computing. It provides support for arrays, matrices, and a large collection of mathematical functions to operate on these arrays.
+
+DWT (Discrete Wavelet Transform) is a mathematical technique used for transforming a signal (usually in the time domain) into a frequency domain representation. It is commonly used in signal processing, image compression, and data analysis because it provides a way to represent signals with both time and frequency information.
+
+PSNR(peak-to-signal-ratio) evaluates the quality of a reconstructed or compressed image compared to the original.
+
+SSIM (Structural Similarity Index) is a metric used to measure the similarity between two images. It is commonly used in image processing and computer vision tasks to assess the quality of compressed or reconstructed images compared to the original ones. Unlike simple metrics like Mean Squared Error (MSE) or Peak Signal-to-Noise Ratio (PSNR), SSIM is designed to mimic the human visual system's perception of image quality.
+
